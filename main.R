@@ -11,3 +11,4 @@ finalists <- tuesdata$finalists
 ratings <- tuesdata$ratings
 seasons <- tuesdata$seasons
 songs <- tuesdata$songs
+
